@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ResultsMenu.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Cannon.cs" Line="7" Column="56" />
+      <File FileName="Assets\Scripts\GUIOverlay.cs" Line="182" Column="1" />
+      <File FileName="Assets\Scripts\ResultsMenu.cs" Line="10" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
